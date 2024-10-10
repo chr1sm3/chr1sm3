@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chr1sm3
+- 👀 I’m interested in technologies that help people pursue a better life
+- 🌱 I’m currently learning ML/AI and Data Science
+- 💞️ I’m looking to collaborate on a small project or open-sourced project
